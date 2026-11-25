@@ -1,3 +1,16 @@
+<p align="center">
+  <a href="https://mansik-santulan-score-1-rpmp.onrender.com">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Website-success?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Aman-Mishra-04/Mansik-Santulan-Score">
+    <img src="https://img.shields.io/badge/📂_Repository-View_Code-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Aman-Mishra-04">
+    <img src="https://img.shields.io/badge/👨‍💻_Developer-Aman_Mishra-black?style=for-the-badge" />
+  </a>
+</p>
+
+
 # 🧠 Mansik Santulan Score
 ### ML-Based Mental Health Analysis & Prediction
 
